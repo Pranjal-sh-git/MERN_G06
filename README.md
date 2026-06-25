@@ -1,2 +1,2 @@
 # MERN_G06
-This ia repository fro g06 batch
+This is a repository for g06 batch
